@@ -1,3 +1,3 @@
-# Card Sharks - stage 2 transition
+# Card Sharks - PR 3
 
-Play: https://ahsan-muzaheed.github.io/card-sharks-stage2/
+stage 1 timer and deck screen
